@@ -4,7 +4,7 @@ linkTitle: "labels"
 type: docs
 weight: 10
 description: >
-    Add labels and optionally selectors to all resources - test 3.
+    Add labels and optionally selectors to all resources.
 ---
 
 A field that allows adding labels without also automatically injecting corresponding selectors.
